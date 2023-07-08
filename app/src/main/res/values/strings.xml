@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalSoloSumaKotlin</string>
+    <string name="operando_1">Operando 1</string>
+    <string name="operando_2">Operando 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="res_Resultado">Resultado</string>
+</resources>
